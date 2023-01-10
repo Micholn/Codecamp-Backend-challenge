@@ -1,14 +1,29 @@
 {
-	"name": "fcc-learn-npm-package-json",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://idontknow/todo.git"
-	}
+  "name": "boilerplate-npm",
+  "version": "1.0.0",
+  "description": "Building an Api that renders it all",
+  "main": "server.js",
+  "scripts": {
+    "test": "none for now",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Micholn/Codecamp-Backend-challenge.git"
+  },
+  "keywords": [
+    "To",
+    "he",
+    "who",
+    "knows"
+  ],
+  "author": "Micholn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Micholn/Codecamp-Backend-challenge.git"
+  },
+  "homepage": "https://github.com/Micholn/Codecamp-Backend-challenge.git#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
